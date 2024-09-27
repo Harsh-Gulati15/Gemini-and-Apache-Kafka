@@ -1,0 +1,6 @@
+kafka-python==2.0.2
+google-generativeai==0.8.2
+python-dotenv==1.0.0
+
+
+# pip install kafka-python google-generativeai python-dotenv
